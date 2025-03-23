@@ -85,11 +85,3 @@ Para rodar os testes unitários:
 vendor/bin/phpunit tests
 ```
 
-## Contribuição
-
-Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto!
-
-## Licença
-
-Este projeto é licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
-
